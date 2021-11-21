@@ -395,28 +395,28 @@ img {
   display: block;
 }
 .img-grid__link--1 {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("/images/mobile/image1.jpg") no-repeat top center/cover;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("../../images/mobile/image1.jpg") no-repeat top center/cover;
 }
 .img-grid__link--2 {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("/images/mobile/image2.jpg") no-repeat top center/cover;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("../../images/mobile/image2.jpg") no-repeat top center/cover;
 }
 .img-grid__link--3 {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("/images/mobile/image3.jpg") no-repeat top center/cover;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("../../images/mobile/image3.jpg") no-repeat top center/cover;
 }
 .img-grid__link--4 {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("/images/mobile/image4.jpg") no-repeat top center/cover;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("../../images/mobile/image4.jpg") no-repeat top center/cover;
 }
 .img-grid__link--5 {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("/images/mobile/image5.jpg") no-repeat top center/cover;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("../../images/mobile/image5.jpg") no-repeat top center/cover;
 }
 .img-grid__link--6 {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("/images/mobile/image6.jpg") no-repeat top center/cover;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("../../images/mobile/image6.jpg") no-repeat top center/cover;
 }
 .img-grid__link--7 {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("/images/mobile/image7.jpg") no-repeat top center/cover;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("../../images/mobile/image7.jpg") no-repeat top center/cover;
 }
 .img-grid__link--8 {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("/images/mobile/image8.jpg") no-repeat top center/cover;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 5rem, transparent 12rem), url("../../images/mobile/image8.jpg") no-repeat top center/cover;
 }
 .img-grid__link::after {
   content: "";
@@ -456,28 +456,28 @@ img {
     height: 28.125rem;
   }
   .img-grid__link--1 {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("/images/desktop/image1.jpg") no-repeat top center/cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("../../images/desktop/image1.jpg") no-repeat top center/cover;
   }
   .img-grid__link--2 {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("/images/desktop/image2.jpg") no-repeat top center/cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("../../images/desktop/image2.jpg") no-repeat top center/cover;
   }
   .img-grid__link--3 {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("/images/desktop/image3.jpg") no-repeat top center/cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("../../images/desktop/image3.jpg") no-repeat top center/cover;
   }
   .img-grid__link--4 {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("/images/desktop/image4.jpg") no-repeat top center/cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("../../images/desktop/image4.jpg") no-repeat top center/cover;
   }
   .img-grid__link--5 {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("/images/desktop/image5.jpg") no-repeat top center/cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("../../images/desktop/image5.jpg") no-repeat top center/cover;
   }
   .img-grid__link--6 {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("/images/desktop/image6.jpg") no-repeat top center/cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("../../images/desktop/image6.jpg") no-repeat top center/cover;
   }
   .img-grid__link--7 {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("/images/desktop/image7.jpg") no-repeat top center/cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("../../images/desktop/image7.jpg") no-repeat top center/cover;
   }
   .img-grid__link--8 {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("/images/desktop/image8.jpg") no-repeat top center/cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 5rem, transparent 10rem), url("../../images/desktop/image8.jpg") no-repeat top center/cover;
   }
   .img-grid__link::after {
     background: linear-gradient(to top, rgba(255, 255, 255, 0.5) 5rem, transparent 10rem), linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6));
