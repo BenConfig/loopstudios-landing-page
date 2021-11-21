@@ -111,7 +111,7 @@ img {
   padding-top: clamp(1.875rem, 4vw, 3.5625rem);
   padding-bottom: 5.25rem;
   padding-inline: clamp(1.5rem, 13.75vw - 2rem, 10.3125rem);
-  background: black url("/images/mobile/image-hero.jpg") center/cover;
+  background: black url("../../images/mobile/image-hero.jpg") center/cover;
 }
 .header__h1 {
   max-width: min(20em, 40.625rem);
@@ -123,6 +123,11 @@ img {
   outline: 2px solid;
   outline-offset: -1px;
   margin-block: auto;
+}
+@media only screen and (min-width: 50.875em) {
+  .header {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../../images/desktop/image-hero.jpg") center/cover black;
+  }
 }
 
 /* ------------------- Navigation Menu ------------------ */

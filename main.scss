@@ -150,7 +150,7 @@ img {
     padding-top: clamp(1.875rem, 4vw, 3.5625rem);
     padding-bottom: 5.25rem;
     padding-inline: clamp(1.5rem, 13.75vw - 2rem, 10.3125rem);
-    background: $clr-black url('/images/mobile/image-hero.jpg') center / cover;
+    background: $clr-black url('../../images/mobile/image-hero.jpg') center / cover;
 
     &__h1 {
         max-width: min(20em, 40.625rem);
@@ -162,6 +162,12 @@ img {
         outline: $line-width solid;
         outline-offset: -1px;
         margin-block: auto;
+    }
+
+    @include md-viewport-width {
+        background: linear-gradient(rgba($clr-black, .4), rgba($clr-black, .4)),
+                    url('../../images/desktop/image-hero.jpg') center / cover
+                    $clr-black;
     }
 }
 
