@@ -391,7 +391,7 @@ img {
             &--#{$i} {
                 background: 
                     linear-gradient(to right, rgba($clr-black, .5) 5rem, transparent 12rem),
-                    url('./images/mobile/image#{$i}.jpg') no-repeat top center / cover;
+                    url('/../images/mobile/image#{$i}.jpg') no-repeat top center / cover;
             }
         }
 
@@ -430,7 +430,7 @@ img {
                 &--#{$i} {
                     background: 
                         linear-gradient(to top, rgba($clr-black, .5) 5rem, transparent 10rem),
-                        url('./images/desktop/image#{$i}.jpg') no-repeat top center / cover;
+                        url('/../images/desktop/image#{$i}.jpg') no-repeat top center / cover;
                 }
             }
 
